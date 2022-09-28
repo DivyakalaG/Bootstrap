@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(235, 193, 232);
+}
+#new{
+    background-color: rgb(197, 197, 241);
+    height: 150px;
+    width: 1490px;
+    border:3px royalblue rgb(239, 227, 227);
+    color: blue;
+}
+h1{
+    text-align: center;
+    text-decoration: underline rgb(244, 224, 224);
+    text-shadow: 1px 2px 1px;
+    font-size: xxx-large;
+}
+input{
+    margin: 10px;
+   height: 30px;
+   border-radius:2px ;
+}
+h4{
+    margin-left: 10px;
+    margin-top: 0%;
+    color: rgb(52, 52, 129);
+}
+p{
+    text-align: justify;
+    margin: 10px;
+    font-size: smaller;
+    color: rgb(38, 38, 93);
+}
+div{
+    background-color: rgb(244, 218, 239);
+    width: 330px;
+    height: 580px;
+    margin: 15px;
+    float: left;
+    border: 1px royalblue ridge ;
+}
+#dnew{
+    background-color: antiquewhite;
+    width: 250px;
+    height: 300px;
+    padding: 10px;
+   
+}
+img{
+    padding:30px ;
+    width: 270px;
+    height: 210px;
+    background-color: rgb(185, 115, 119);
+}
+button{
+    float: right;
+    margin-right: 20px;
+    background-color: rgb(215, 216, 222);
+    font-size: larger;
+}
+.b{
+    
+border: none;
+background-color: rgb(222, 222, 237);
+    margin-left: 20px;
+    margin-bottom:20px;
+    float:left;
+}
+.b1{
+    border: none;
+}

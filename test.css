@@ -1,0 +1,15 @@
+.mask1 {
+    -webkit-mask-image: url(./Images/licon-removebg-preview.png);
+    mask-image: url(./Images/licon-removebg-preview.png);
+  }
+  .mask{
+    animation-name: mask;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+  }
+  @keyframes mask{
+    0%{background-image:url(./Images/asia\ tour.jpeg);}
+    25%{background-image:url(./Images/arabic\ foods.jpg);}
+    50%{background-image:url(./Images/beach.jpeg);}
+    100%{background-image:url(./Images/asia\ tour.jpeg);}
+  }

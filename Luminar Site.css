@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Bebas+Neue&family=Black+Ops+One&family=Dancing+Script&family=Lobster&family=Merriweather&family=Monoton&family=Montserrat:wght@100;200;500&family=Pacifico&family=Permanent+Marker&family=Pinyon+Script&family=Saira+Stencil+One&family=Satisfy&display=swap');
+
+
+
+.f1{
+    margin-right: 265px;
+}
+.navbar-brand:hover{
+    text-decoration: underline;
+    color: rgb(148, 46, 148);
+    font-weight: bold;
+}
+.head{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(207, 198, 216);
+    padding: 30px;
+}
+.h1{
+    font-family: 'Merriweather', serif;
+    color: rgb(103, 53, 150);
+    margin-top: 20px;
+    margin-left: 150px;
+    line-height: 70px;
+}
+.h3{
+    margin-left: 150px;
+    color: rgb(103, 53, 150);
+    font-weight: bold;
+}
+.para{
+    width: 400px;
+    height: 120px;
+    margin-left: 150px;
+    margin-top: 30px;
+    text-align: justify;
+    line-height: 2ch;
+    letter-spacing: 0ch;
+    font-weight: bold;
+}
+.imghead{
+    margin-left: 500px;
+    margin-top: -360px;
+}
+.btn{
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color:  rgb(103, 53, 150);
+    border: none;
+    color: blanchedalmond;
+}
+.watsapp{
+    color: rgb(46, 216, 61);
+}
+.sticky{
+    margin-left: 20px;
+    top: 80px;
+}
+.head2{
+    width: 600px;
+    height: 80px;
+    margin-left: 480px;
+    margin-top: 40px;
+    align-content: center;
+    line-height: 2ch;
+    font-weight: 400;
+}
+.h1_h2{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    line-height: 2ch;
+    color: rgb(103, 53, 150);
+    font-size: 50px;
+}
+#phead2{
+    text-align: center;
+}
+
+.search{
+   margin-top: 20px;
+   margin-left: 180px ;
+}
+#search{
+    border: none;
+    height: 40px;
+}
+
+.card{
+    margin-left: 150px;
+    margin-top: 70px;
+    padding: 20px;
+}
+.card:hover{
+    border: 0px  whitesmoke;
+    background-color: rgb(234, 234, 234);
+    box-shadow: 0 0 25px rgb(120, 116, 116);
+}
+.card-title{
+    
+    color:rgb(95, 25, 112);
+    font-weight: 700;
+    margin-top: 10px;
+}
+b{
+    color:rgb(95, 25, 112);
+}
+.main{
+    margin-top: 60px;
+}
+.test{
+    line-height: 2ch;
+    text-align: justify;
+    margin-top: 30px;
+}
+.card-img{
+    background-color: rgb(132, 41, 155);
+    border-radius: 120px;
+}
+
+.card2{
+    float: right;
+    margin-top: -585px;
+    margin-right:540px;
+    height: 585px;
+}
+.card3{
+    float: right;
+    margin-top: -585px;
+    margin-right:120px;
+    height: 585px;
+}
+.card5{
+    float: right;
+    margin-top: -610px;
+    margin-right:540px;
+}
+.card6{
+    float: right;
+    margin-top: -610px;
+    margin-right: 115px;
+    
+}
+.card8{
+    float: right;
+    margin-top: -610px;
+    margin-right: 540px;
+}
+.card9{
+    float: right;
+    margin-top: -610px;
+    margin-right: 115px;
+}
+.main2{
+    width: 100%;
+    height: 700px;
+    margin-top: 30px;
+    background-color: rgb(246, 245, 243);
+}
+.divimg{
+    height: 700px;
+    width: 50%;
+}
+.dimgpara{
+    height: 700px;
+    width: 50%;
+    float: right;
+    margin-top: -700px;
+}
+#divh1{
+    color: rgb(103, 53, 150);
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.divh1{
+    margin-top: 30px;
+    padding: 50px;
+    margin-left: 30px;
+    
+}
+.list{
+    margin-left: 30px;
+}
+.endlist{
+    font-weight: bold; 
+    
+}
+.carda-title{
+    text-align: center;
+    color: blanchedalmond;
+    padding: 100px;
+    font-size: 50px;
+    font-weight: 200;
+
+}
+
+.carda-text{
+    color: blanchedalmond;
+}
+

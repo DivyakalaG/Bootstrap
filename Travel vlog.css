@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Bebas+Neue&family=Black+Ops+One&family=Dancing+Script&family=Lato:ital,wght@1,100&family=Lobster&family=Merriweather&family=Monoton&family=Montserrat:wght@100;200;500&family=Pacifico&family=Permanent+Marker&family=Pinyon+Script&family=Saira+Stencil+One&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Bebas+Neue&family=Black+Ops+One&family=Dancing+Script&family=Didact+Gothic&family=Lato:ital,wght@1,100&family=Lobster&family=Merriweather&family=Monoton&family=Montserrat:wght@100;200;500&family=Pacifico&family=Permanent+Marker&family=Pinyon+Script&family=Rubik+Moonrocks&family=Saira+Stencil+One&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Bebas+Neue&family=Black+Ops+One&family=Dancing+Script&family=Didact+Gothic&family=Lato:ital,wght@1,100&family=Lobster&family=Merriweather&family=Monoton&family=Montserrat:wght@100;200;500&family=Pacifico&family=Permanent+Marker&family=Pinyon+Script&family=Rubik+Moonrocks&family=Saira+Stencil+One&family=Satisfy&display=swap');
+
+span{
+    font-family: 'Lato', sans-serif;
+}
+
+.head{
+    height: 50px;
+    background-color: rgba(81, 121, 145, 0.4);
+    position: sticky;
+    top: 0px;
+    padding-top: 10px;
+    margin-top: -700px;
+}
+.lh{
+    margin-left: 70px;
+    color: rgb(255, 255, 255);
+   
+}
+.lhead{
+    color: rgb(255, 255, 255);
+    padding-left: 50px;
+    text-decoration: none;
+    font-weight: 800;
+}
+.lhead:hover{
+    color: rgb(1, 1, 107);
+    font-weight: 700;
+    transition: 1s;
+    text-decoration: underline;
+}
+.logo{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+.mask{
+    width: 1500px;
+    height: 550px;
+    margin-left: 20px;
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.577);
+    border-radius: 100px;
+}
+#htitle{
+    text-align: center;
+    padding: 100px;
+    color: rgba(6, 14, 104, 0.552);
+    font-size: 100px;
+    font-weight: 800;
+    font-family: 'Didact Gothic', sans-serif;
+}
+h2{
+    margin-left: 384px;
+    text-align: center;
+    color: rgb(123, 22, 154);
+    font-family: 'Didact Gothic', sans-serif;
+    font-weight: 800;
+}
+#hpara{
+    font-family: 'Satisfy', cursive;
+    color: rgba(19, 23, 130, 0.645);
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    text-transform: capitalize;
+}
+#hpara:hover{
+    color: blue;
+    font-weight: 900;
+}
+#htravel{
+    margin-top: 100px;
+    text-align: center;
+    font-weight: 900;
+    color: rgb(189, 19, 189);
+    text-decoration: underline;
+}
+.travel1{
+    width: 1100px;
+    height: 1000px;
+    margin-left: 220px;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rgba(197, 189, 198, 0.534);
+    border-radius: 20px;
+}
+.travel{
+    width: 100%;
+    height: 700px;
+    margin-top: 30px;
+    background-color: rgba(237, 213, 236, 0.603);
+    padding: 50px;
+}
+.traimg{
+    height: 600px;
+    width: 700px;
+    background-color: rgba(165, 42, 151, 0.83);
+    border-radius: 30px;
+    margin-left: 120px;
+}
+.trahead{
+    height: 700px;
+    width: 50%;
+    float: right;
+    margin-top: -500px;
+}
+#trah1{
+    color: rgb(103, 25, 121);
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.trah1{
+    margin-top: 30px;
+    padding: 50px;
+    margin-left: 30px;
+    
+}
+#span2{
+    color: rgb(15, 15, 106);
+    font-size: 60px;
+    font-family: 'Didact Gothic', sans-serif;
+    margin-left: 40px;
+    font-weight: 900;
+}
+iframe{
+    padding: 30px;
+}
+.row{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    margin-left: 20px;
+   
+}
+.col{
+    background-color: rgba(116, 112, 116, 0.156);
+    border: 5px ridge rgba(83, 11, 77, 0.555);
+    border-radius: 50px;
+    width: 300px;
+    height: 400px;
+    margin: 5px; 
+}
+.col:hover{
+    background-color: rgba(237, 177, 237, 0.829); 
+    border: 5px ridge rgb(136, 13, 125);
+}
+.i{
+    width: 280px;
+    height: 310px;
+    margin: 10px;
+    border-radius:40px ;
+    border:3px ridge rgb(255, 0, 238) ;
+    
+}
+.ptravel{
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(111, 16, 137);
+}
+.photo{
+    margin-top: 20px;
+    width: 100%;
+    height: 750px;
+    background-image: url(./Images/ww.webp) ;
+    background-attachment: fixed; 
+}
+.row2{
+    
+    width: 1400px;
+    height: 750px;
+    background-color: rgba(255, 153, 127, 0.464);
+    margin-left: 60px;    
+}
+.col2{
+
+    border: 2px ridge rgba(45, 144, 17, 0.936);
+    background-color: rgba(156, 94, 60, 0.007);
+    width: 320px;
+    height: 350px;
+    margin: 10px;
+    border-radius: 25px;
+    float: right;
+}
+.gall{
+    margin: 10px;
+    border-radius: 20px;
+}
+.col2:hover{
+    background-color: rgba(73, 156, 60, 0.007);
+}
+.f1{
+    margin-left: 300px;
+}
+#pfoot{
+    color: rgb(108, 12, 164);
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Satisfy', cursive;
+}
